@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sumit
-<br>A passionate developer from India pursuing Master's in Information Technology from IIIT Allahabad<br>🔭 I’m currently working on Web Devlopment
+<br>A passionate developer from India working as a Full Stack Developer, done my Master's in Information Technology from IIIT Allahabad<br>🔭 I’m currently working on Web Devlopment
 
 
 ## 🌐 Socials:
